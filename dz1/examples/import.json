@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Подготовить отчет",
+    "status": "planned",
+    "deadline": "2099-10-10"
+  },
+  {
+    "title": "Вторая задача",
+    "status": "in_progress",
+    "deadline": "2099-10-12"
+  },
+  {
+    "title": "Некорректная задача",
+    "status": "unknown",
+    "deadline": "2099-10-15"
+  },
+  {
+    "title": "Без даты",
+    "status": "planned",
+    "deadline": ""
+  }
+]

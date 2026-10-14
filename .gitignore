@@ -1,0 +1,11 @@
+*.exe
+*.log
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+bin/
+dist/
+build/
+/dz1/tasks.json

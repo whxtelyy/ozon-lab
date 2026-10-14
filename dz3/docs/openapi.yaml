@@ -1,0 +1,11 @@
+openapi: 3.0.3
+info:
+  title: Cart API
+  version: 1.0.0
+paths:
+  /user/{user_id}/cart/{sku_id}:
+    post:
+      summary: Добавить товар в корзину
+  /user/{user_id}/cart:
+    get:
+      summary: Получить корзину пользователя
